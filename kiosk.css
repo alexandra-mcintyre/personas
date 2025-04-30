@@ -30,7 +30,7 @@
 
 .user-interviews{
      max-width: 300px;
-     color: #692953;
+     color: #D22FB1;
      margin-top: 45px;
 }
 
@@ -38,6 +38,7 @@
     max-width: 250px;
     font-size: 35px;
     margin-bottom: 10px;
+    color: #692953;
 }
 
 .storyboard{
@@ -66,7 +67,7 @@
     box-shadow: none;
     margin-top: 0;
     max-width: 800px;
-    color: #2e78b8
+    color: #000000
 }
 
 .no-background-black{

@@ -7,10 +7,6 @@
     margin: auto;
 }
 
-html {
-  -webkit-print-color-adjust: exact;
-}
-
 
 body {
     font-family: 'Poppins', Arial, sans-serif, 'Gill Sans', 'Gill Sans MT';
@@ -79,7 +75,7 @@ section:hover {
 
 /* Headings */
 h2{
-    color: #7ec636;
+    color: #000000;
     font-weight: normal;
     letter-spacing: 1.2px;
     line-height: 30px;
@@ -167,7 +163,7 @@ th {
 }
 
 .table2 {
-    background: #692953;
+    background: #D22FB1;
 }
 
 td {
@@ -181,6 +177,10 @@ tr:nth-child(even) {
 
 tr:hover {
     background-color: rgb(255, 232, 240);
+}
+
+.tr2:hover{
+    background-color: #e5eef8
 }
 
 
@@ -225,7 +225,6 @@ img:hover {
     max-width: 1200px;
     padding-top: 10px; /* Add top padding to the divider */
     padding-bottom: 10px; /* Add bottom padding */
-
 }
 
 .row {
