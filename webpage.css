@@ -16,7 +16,7 @@ body {
     font-family: 'Poppins', Arial, sans-serif, 'Gill Sans', 'Gill Sans MT';
     margin: 0;
     padding: 20px;
-    background: #e4edf6;
+    background: #ffffff;
     color: #333;
 }
 
@@ -31,7 +31,7 @@ p {
 
 /* Header */
 header {
-    background: linear-gradient(90deg, #5cabef, #b7d7f7);
+    background: linear-gradient(90deg, #FF79E4, #ffffff, #FF79E4);
     color: rgb(5, 5, 5);
     padding: 20px;
     text-align: center;
@@ -50,7 +50,7 @@ h1 {
     letter-spacing: 1px;
     text-align: center;
     font-weight:bold;
-    color:#7ec636;
+    color:#D22FB1;
     max-width: 620px;
     padding: 5px;
     background: white;
@@ -79,7 +79,7 @@ section:hover {
 
 /* Headings */
 h2{
-    color: #82218b;
+    color: #7ec636;
     font-weight: normal;
     letter-spacing: 1.2px;
     line-height: 30px;
@@ -106,7 +106,7 @@ li{
 
 h3 {
     font-size: 30px;
-    color: #692953;
+    color: #388af6;
     font-weight: bold;
     max-width: 1000px;
     margin: 0 auto; /* Centers the text block */
@@ -159,7 +159,7 @@ th, td {
 }
 
 th {
-    background: #4aa3f1;
+    background: #388af6;
     color: white;
     font-size: 20px;
     text-transform: uppercase;
@@ -180,7 +180,7 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-    background-color: #eefee7;
+    background-color: rgb(255, 232, 240);
 }
 
 
